@@ -16,6 +16,9 @@
   - [Shap for Trees](https://arxiv.org/pdf/1802.03888.pdf)
   
   
+- DataSets to be used 
+  - [two-sigma-connect-rental-listing-inquiries](https://www.kaggle.com/c/two-sigma-connect-rental-listing-inquiries/data)
+  
 - Models to Learn
   - Neural Networks 
   - Shap Framework 
