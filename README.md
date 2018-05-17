@@ -28,6 +28,7 @@ A [kaggle kernel](https://www.kaggle.com/vineetsingh1/betterml/edit) to become a
   - [Shap Framework](https://github.com/slundberg/shap)
   - [Cat Boost](https://towardsdatascience.com/catboost-vs-light-gbm-vs-xgboost-5f93620723db) 
   - LightGBM
+    - [Medium Blog](https://medium.com/@pushkarmandot/https-medium-com-pushkarmandot-what-is-lightgbm-how-to-implement-it-how-to-fine-tune-the-parameters-60347819b7fc)
   - XGBoost 
     - [Course](http://education.parrotprediction.teachable.com/courses/78878/lectures/1137863)
     - [Kaggle Master Blog](http://blog.kaggle.com/2017/01/23/a-kaggle-master-explains-gradient-boosting/)
