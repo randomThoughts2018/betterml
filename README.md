@@ -23,12 +23,12 @@ A [kaggle kernel](https://www.kaggle.com/vineetsingh1/betterml/edit) to become a
   - [two-sigma-connect-rental-listing-inquiries](https://www.kaggle.com/c/two-sigma-connect-rental-listing-inquiries/data)
   
 - Models to Learn
-  - Neural Networks 
-  - Shap Framework 
-  - Cat Boost 
+  - [Neural Networks](course.fast.ai) 
+  - [Shap Framework](https://github.com/slundberg/shap)
+  - [Cat Boost](https://towardsdatascience.com/catboost-vs-light-gbm-vs-xgboost-5f93620723db) 
   - LightGBM
   - XGBoost 
-  - Random Forest
+  - [Random Forest](https://www.youtube.com/watch?v=blyXCk4sgEg&feature=youtu.be)
 
 
 - [RNN Summarization Blog](http://www.abigailsee.com/2017/04/16/taming-rnns-for-better-summarization.html)
