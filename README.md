@@ -31,4 +31,4 @@ A [kaggle kernel](https://www.kaggle.com/vineetsingh1/betterml/edit) to become a
   - Random Forest
 
 
-- [RNN Summarization Blog]()http://www.abigailsee.com/2017/04/16/taming-rnns-for-better-summarization.html
+- [RNN Summarization Blog](http://www.abigailsee.com/2017/04/16/taming-rnns-for-better-summarization.html)
