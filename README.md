@@ -31,8 +31,9 @@ A [kaggle kernel](https://www.kaggle.com/vineetsingh1/betterml/edit) to become a
   - XGBoost 
   - [Random Forest](https://www.youtube.com/watch?v=blyXCk4sgEg&feature=youtu.be)
 
-- [What is Ensemble ?](https://quantdare.com/what-is-the-difference-between-bagging-and-boosting/)
-- [XGBOOST simplified](https://www.kaggle.com/grroverpr/gradient-boosting-simplified/code)
-- [MAE vs MSE: Quora Thread](https://www.quora.com/How-would-a-model-change-if-we-minimized-absolute-error-instead-of-squared-error-What-about-the-other-way-around)
+- Blogs
+  - [What is Ensemble ?](https://quantdare.com/what-is-the-difference-between-bagging-and-boosting/)
+  - [XGBOOST simplified](https://www.kaggle.com/grroverpr/gradient-boosting-simplified/code)
+  - [MAE vs MSE: Quora Thread](https://www.quora.com/How-would-a-model-change-if-we-minimized-absolute-error-instead-of-squared-error-What-about-the-other-way-around)
 
-- [RNN Summarization Blog](http://www.abigailsee.com/2017/04/16/taming-rnns-for-better-summarization.html)
+  - [RNN Summarization Blog](http://www.abigailsee.com/2017/04/16/taming-rnns-for-better-summarization.html)
