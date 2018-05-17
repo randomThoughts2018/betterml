@@ -36,6 +36,7 @@ A [kaggle kernel](https://www.kaggle.com/vineetsingh1/betterml/edit) to become a
     - [Boosting Lecture](https://www.youtube.com/watch?v=wPqtzj5VZus)
     - [ML Mastery Blog](https://machinelearningmastery.com/gentle-introduction-xgboost-applied-machine-learning/)
   - [Random Forest](http://forums.fast.ai/t/another-treat-early-access-to-intro-to-machine-learning-videos/6826)
+    - [Original Blog](https://www.stat.berkeley.edu/~breiman/RandomForests/cc_home.htm#varimp)
 
 - Blogs
   - [What is Ensemble ?](https://quantdare.com/what-is-the-difference-between-bagging-and-boosting/)
