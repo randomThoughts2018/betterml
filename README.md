@@ -16,6 +16,7 @@ A [kaggle kernel](https://www.kaggle.com/vineetsingh1/betterml/edit) to become a
   - [rfimp blog](http://parrt.cs.usfca.edu/doc/rf-importance/index.html)
   - [Shap blog](https://towardsdatascience.com/interpretable-machine-learning-with-xgboost-9ec80d148d27)
   - [Shap for Trees](https://arxiv.org/pdf/1802.03888.pdf)
+  - [ELI5 for scikit-learn](http://eli5.readthedocs.io/en/latest/tutorials/xgboost-titanic.html)
   
   
 - DataSets to be used 
