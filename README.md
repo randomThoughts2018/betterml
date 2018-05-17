@@ -30,6 +30,10 @@ A [kaggle kernel](https://www.kaggle.com/vineetsingh1/betterml/edit) to become a
   - LightGBM
   - XGBoost 
     - [Course](http://education.parrotprediction.teachable.com/courses/78878/lectures/1137863)
+    - [Kaggle Master Blog](http://blog.kaggle.com/2017/01/23/a-kaggle-master-explains-gradient-boosting/)
+    - [XGboost Paper](http://www.kdd.org/kdd2016/papers/files/rfp0697-chenAemb.pdf)
+    - [Boosting Lecture](https://www.youtube.com/watch?v=wPqtzj5VZus)
+    - [ML Mastery Blog](https://machinelearningmastery.com/gentle-introduction-xgboost-applied-machine-learning/)
   - [Random Forest](https://www.youtube.com/watch?v=blyXCk4sgEg&feature=youtu.be)
 
 - Blogs
