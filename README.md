@@ -29,10 +29,8 @@ A [kaggle kernel](https://www.kaggle.com/vineetsingh1/betterml/edit) to become a
   - [Cat Boost](https://towardsdatascience.com/catboost-vs-light-gbm-vs-xgboost-5f93620723db) 
   - LightGBM
   - XGBoost 
+    - [Course](http://education.parrotprediction.teachable.com/courses/78878/lectures/1137863)
   - [Random Forest](https://www.youtube.com/watch?v=blyXCk4sgEg&feature=youtu.be)
-
-- XGboost
-  - [Course](http://education.parrotprediction.teachable.com/courses/78878/lectures/1137863)
 
 - Blogs
   - [What is Ensemble ?](https://quantdare.com/what-is-the-difference-between-bagging-and-boosting/)
