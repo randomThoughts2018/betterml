@@ -37,6 +37,7 @@ A [kaggle kernel](https://www.kaggle.com/vineetsingh1/betterml/edit) to become a
     - [ML Mastery Blog](https://machinelearningmastery.com/gentle-introduction-xgboost-applied-machine-learning/)
   - [Random Forest](http://forums.fast.ai/t/another-treat-early-access-to-intro-to-machine-learning-videos/6826)
     - [Original Blog](https://www.stat.berkeley.edu/~breiman/RandomForests/cc_home.htm#varimp)
+    - [Jaroslaw Szymczak - Gradient Boosting in Practice: a deep dive into xgboost](https://www.youtube.com/watch?v=s3VmuVPfu0s)
 
 - Blogs
   - [What is Ensemble ?](https://quantdare.com/what-is-the-difference-between-bagging-and-boosting/)
