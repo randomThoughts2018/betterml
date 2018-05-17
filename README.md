@@ -31,6 +31,9 @@ A [kaggle kernel](https://www.kaggle.com/vineetsingh1/betterml/edit) to become a
   - XGBoost 
   - [Random Forest](https://www.youtube.com/watch?v=blyXCk4sgEg&feature=youtu.be)
 
+- XGboost
+  - [Course](http://education.parrotprediction.teachable.com/courses/78878/lectures/1137863)
+
 - Blogs
   - [What is Ensemble ?](https://quantdare.com/what-is-the-difference-between-bagging-and-boosting/)
   - [XGBOOST simplified](https://www.kaggle.com/grroverpr/gradient-boosting-simplified/code)
