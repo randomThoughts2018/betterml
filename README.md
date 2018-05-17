@@ -1,6 +1,8 @@
 # betterml
 
-> We build a model, and we get some *metrics* out of it
+A [kaggle kernel](https://www.kaggle.com/vineetsingh1/betterml/edit) to become a better data scientist.
+
+> We build a model, and we get some *metrics* out of it, What do we do now ? 
 
 - How do we know, which *model* will generalize better?
   - Having a validation data strategy, that mimics real production environment. 
